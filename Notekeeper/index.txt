@@ -26,7 +26,7 @@ aria-label = Edit notebook
 aria-label = Delete notebook
 <span class="material-symbols-rounded" aria-hidden="true">delete</span>
 
-Copyright 2023 codewithsadee
+Copyright 2023 sriram
 
 
 #---------- MAIN ----------#
